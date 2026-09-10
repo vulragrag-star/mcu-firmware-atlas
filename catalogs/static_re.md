@@ -1,6 +1,6 @@
 # static_re
 
-_12 entries_
+_13 entries_
 
 - **[ghidra](https://github.com/NationalSecurityAgency/ghidra)** ★74728 — NSA Software Reverse Engineering suite  
   tags: `daily-ops, lab-usable, paper-repro`  
@@ -45,6 +45,10 @@ _12 entries_
 - **[GhidraSVD](https://github.com/antoniovazquezblanco/GhidraSVD)** ★51 — Ghidra SVD importer for peripheral registers  
   tags: `lab-usable, daily-ops`  
   smoke: Ghidra + SVD
+
+- **[HEAPSTER](https://github.com/ucsb-seclab/heapster)** ★47 — Identify and test the security of dynamic memory allocators in monolithic firmware images  
+  tags: `paper-repro, lab-usable`  
+  smoke: None
 
 - **[argXtract](https://github.com/projectbtle/argXtract)** ★31 — Extract SVC/HAL args from stripped Cortex-M BLE firmware  
   tags: `paper-repro, lab-usable`  
