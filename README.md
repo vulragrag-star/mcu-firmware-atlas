@@ -14,9 +14,29 @@ We first survey existing awesome/index repos (see `data/seeds/SOURCES.md`), then
 ## Closed-loop map
 See [`docs/MAP.md`](docs/MAP.md), [`docs/TAXONOMY.md`](docs/TAXONOMY.md), [`docs/SETTING.md`](docs/SETTING.md), [`docs/SMOKE.md`](docs/SMOKE.md).
 
-## Status (bootstrap 2026-09-10)
-- Seed survey recorded; core tools JSONL: **7** (crawl expansion in flight)
-- Papers/vulns/datasets: filling via multi-agent crawl
+## Status (crawl merge 2026-09-10)
+- Tools: **139** (fringe flagged: **35**)
+- Papers / vulns / datasets: **25** / **12** / **8**
+- Seeds first: hexsecs / emproof workshop / … — `data/seeds/SOURCES.md` · `docs/CRAWL_SUMMARY.md`
+- Known gap: `vuln_intel` thin (no MCU FwHunt analog)
+
+### Tool counts by stage
+
+| Stage | n |
+|---|---|
+| acquire | 20 |
+| dataset | 5 |
+| defend_harden | 4 |
+| emulate_fuzz | 21 |
+| lab_teaching | 13 |
+| offense_poc | 16 |
+| paper_map | 3 |
+| parse | 11 |
+| runtime_assess | 10 |
+| spec | 24 |
+| static_re | 12 |
+| **total** | **139** |
+
 
 ## Quick start
 ```bash

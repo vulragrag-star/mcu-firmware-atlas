@@ -1,0 +1,5 @@
+{"id": "fence_linux", "reason": "Linux kernel \u2192 linux-kernel-atlas"}
+{"id": "fence_openwrt", "reason": "OpenWrt/IoT dumps \u2192 iot-firmware-atlas"}
+{"id": "fence_uefi", "reason": "UEFI \u2192 uefi-firmware-atlas"}
+{"id": "fence_rtos_primary", "reason": "Zephyr/FreeRTOS primary trees \u2192 rtos-firmware-atlas"}
+{"id": "gap_vuln_intel", "reason": "No MCU FwHunt analog yet \u2014 vuln_intel sparse"}
