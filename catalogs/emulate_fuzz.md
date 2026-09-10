@@ -1,6 +1,6 @@
 # emulate_fuzz
 
-_24 entries_
+_25 entries_
 
 - **[qemu](https://github.com/qemu/qemu)** ★13698 — QEMU full-system and user emulator  
   tags: `lab-usable, reference-impl`  
@@ -97,3 +97,7 @@ _24 entries_
 - **[FIDO](https://github.com/IoTS-P/FIDO)** ★4 — FIDO — on-demand input delivery to boost firmware fuzzing (S&P 2026).  
   tags: `paper-repro`  
   smoke: Research harness; check docs.
+
+- **[Avatar2 (index)](https://github.com/search?q=avatar2+firmware+orchestration)** ★? — Avatar2 dynamic firmware analysis orchestration (index; org path unstable in search).  
+  tags: `paper-repro, lab-usable`  
+  smoke: INDEX ONLY — pin canonical org/repo on next refresh.
