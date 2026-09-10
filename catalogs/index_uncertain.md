@@ -11,5 +11,5 @@ _4 entries_
 - **[MultiFuzz benchmarks](https://github.com/MultiFuzz/MultiFuzz-benchmarks)** `INDEX` · from `datasets.jsonl`  
   INDEX: synthetic+real targets used in USENIX Sec 24 AE.
 
-- **[MCU vuln-intel gap (no FwHunt analog)](https://github.com/vulragrag-star/mcu-firmware-atlas)** `GAP` · from `vulns.jsonl`  
+- **[MCU vuln-intel gap (no FwHunt analog)](#)** `GAP` · from `vulns.jsonl`  
   INDEX: intentional gap marker — no community YAML rule DB equivalent to FwHunt for MCU yet.
