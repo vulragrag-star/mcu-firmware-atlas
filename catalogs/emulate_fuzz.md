@@ -1,6 +1,6 @@
 # emulate_fuzz
 
-_21 entries_
+_24 entries_
 
 - **[qemu](https://github.com/qemu/qemu)** ★13698 — QEMU full-system and user emulator  
   tags: `lab-usable, reference-impl`  
@@ -85,3 +85,15 @@ _21 entries_
 - **[microAFL](https://github.com/MCUSec/microAFL)** ★48 — μAFL hardware-in-the-loop fuzzer via ARM ETM  
   tags: `paper-repro, hw-required`  
   smoke: ETM-capable board
+
+- **[MultiFuzz](https://github.com/MultiFuzz/MultiFuzz)** ★44 — MultiFuzz — multi-stream fuzzer for monolithic MCU firmware (USENIX Sec 2024).  
+  tags: `paper-repro, lab-usable`  
+  smoke: Rust fuzzer; config.yml; lab-usable with samples.
+
+- **[Ember-IO-Fuzzing](https://github.com/Ember-IO/Ember-IO-Fuzzing)** ★11 — Ember-IO — model-free cached MMIO fuzzing for embedded firmware.  
+  tags: `paper-repro, lab-usable`  
+  smoke: AFL++-QEMU based; research setup.
+
+- **[FIDO](https://github.com/IoTS-P/FIDO)** ★4 — FIDO — on-demand input delivery to boost firmware fuzzing (S&P 2026).  
+  tags: `paper-repro`  
+  smoke: Research harness; check docs.
